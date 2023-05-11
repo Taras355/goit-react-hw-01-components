@@ -1,3 +1,7 @@
+# LIVE PAGE
+
+[Open Live Page](https://taras355.github.io/goit-react-hw-01-components/)
+
 # React homework template
 
 This project was created with
@@ -19,9 +23,9 @@ the Name field and make sure the repository is public, then click
 
 ![Creating repo from a template step 2](./assets/template-step-2.png)
 
-You now have a personal project repository, having a repository-template file 
-and folder structure. After that, you can work with it as you would with any 
-other private repository: clone it on your computer, write code, commit, and 
+You now have a personal project repository, having a repository-template file
+and folder structure. After that, you can work with it as you would with any
+other private repository: clone it on your computer, write code, commit, and
 send it to GitHub.
 
 ## Preparing for coding
@@ -57,9 +61,9 @@ Next, you need to go to the settings of the GitHub repository (`Settings` >
 The deployment status of the latest commit is displayed with an icon next to its
 ID.
 
-- **Yellow color** - the project is being built and deployed.
-- **Green color** - deployment completed successfully.
-- **Red color** - an error occurred during linting, build or deployment.
+-   **Yellow color** - the project is being built and deployed.
+-   **Green color** - deployment completed successfully.
+-   **Red color** - an error occurred during linting, build or deployment.
 
 More detailed information about the status can be viewed by clicking on the
 icon, and in the drop-down window, follow the link `Details`.
@@ -87,7 +91,7 @@ the line are required.
 
 ```jsx
 <BrowserRouter basename="/your_repo_name/">
-  <App />
+    <App />
 </BrowserRouter>
 ```
 
